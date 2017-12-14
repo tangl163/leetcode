@@ -32,9 +32,7 @@ myAtoi(char* str)
 
 overFlow:
 
-    val *= sign;
-
-    if (val > INT_MAX)
+    if (tmp > INT_MAX)
         return INT_MAX;
     else
         return INT_MIN;
