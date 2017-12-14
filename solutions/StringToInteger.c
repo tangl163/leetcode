@@ -1,11 +1,12 @@
-#define ISDIGIT(c) ((c) - '0' >= 0 && (c) - '9' <= 9)
-
 int
 myAtoi(char* str)
 {
     char *p;
-    long tmp = 0;
-    int sign = 1;
+    long tmp, val;
+    int sign;
+
+    val = 0;
+    sign = 1;
 
     for (p = str; isspace(*p); p++)
         ;
@@ -18,21 +19,22 @@ myAtoi(char* str)
     }
 
     while (*p && ISDIGIT(*p)) {
-        tmp = tmp * 10 + (*p - '0');
+        val = val * 10 + (*p - '0');
 
+        tmp = val * sign;
         if (tmp > INT_MAX || tmp < INT_MIN)
             goto overFlow;
 
         p++;
     }
 
-    return tmp * sign;
+    return val * sign;
 
 overFlow:
 
-    tmp *= sign;
+    val *= sign;
 
-    if (tmp > INT_MAX)
+    if (val > INT_MAX)
         return INT_MAX;
     else
         return INT_MIN;
