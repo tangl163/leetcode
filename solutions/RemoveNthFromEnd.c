@@ -9,29 +9,23 @@ struct ListNode *
 removeNthFromEnd(struct ListNode *head, int n)
 {
     int step;
-    struct ListNode *tmp, *dummyhead, *p;
+    struct ListNode prehead;
+    struct ListNode *tmp, *p;
 
-    dummyhead = p = malloc(sizeof *dummyhead);
-    dummyhead->next = tmp = head;
+    p = &prehead;
+    prehead.next = head;
 
-    for (step = 1; tmp; step++) {
+    for (step = 1; head; step++) {
         if (step > n)
             p = p->next;
 
-        tmp = tmp->next;
+        head = head->next;
     }
 
     tmp = p->next;
-
-    if (tmp == head)
-        head = tmp->next;
-    else
-        p->next = tmp->next;
-
-    /* avoid memory leakage */
+    p->next = tmp->next;
     free(tmp);
-    free(dummyhead);
 
-    return head;
+    return prehead.next;
 }
 
