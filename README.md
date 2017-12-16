@@ -12,4 +12,5 @@ LeetCode Problems
 |24| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [C](./solutions/SwapPairs.c) | Medium |
 |27| [Remove Element](https://leetcode.com/problems/remove-element/description/) | [C](./solutions/RemoveElement.c) | Easy |
 |28| [Implement strStr](https://leetcode.com/problems/implement-strstr/description/) | [C](./solutions/StrStr.c) | Easy |
+|35| [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [C](./solutions/SearchInsert.c) | Easy |
 
