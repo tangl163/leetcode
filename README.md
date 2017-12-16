@@ -9,4 +9,5 @@ LeetCode Problems
 |19| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [C](./solutions/RemoveNthFromEnd.c) | Medium |
 |21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [C](./solutions/MergeTwoLists.c) | Easy |
 |27| [Remove Element](https://leetcode.com/problems/remove-element/description/) | [C](./solutions/RemoveElement.c) | Easy |
+|28| [Implement strStr](https://leetcode.com/problems/implement-strstr/description/) | [C](./solutions/StrStr.c) | Easy |
 
