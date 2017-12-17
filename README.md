@@ -13,6 +13,7 @@ LeetCode Problems
 |26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [C](./solutions/RemoveDuplicates.c) | Easy |
 |27| [Remove Element](https://leetcode.com/problems/remove-element/description/) | [C](./solutions/RemoveElement.c) | Easy |
 |28| [Implement strStr](https://leetcode.com/problems/implement-strstr/description/) | [C](./solutions/StrStr.c) | Easy |
+|33| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [C](./solutions/SearchInRotatedSortedArray.c) | Medium |
 |34| [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [C](./solutions/SearchRange.c) | Medium |
 |35| [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [C](./solutions/SearchInsert.c) | Easy |
 
