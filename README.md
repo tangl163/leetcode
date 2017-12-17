@@ -10,6 +10,7 @@ LeetCode Problems
 |21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [C](./solutions/MergeTwoLists.c) | Easy |
 |23| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [C](./solutions/MergeKLists.c) | Hard |
 |24| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [C](./solutions/SwapPairs.c) | Medium |
+|26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [C](./solutions/RemoveDuplicates.c) | Easy |
 |27| [Remove Element](https://leetcode.com/problems/remove-element/description/) | [C](./solutions/RemoveElement.c) | Easy |
 |28| [Implement strStr](https://leetcode.com/problems/implement-strstr/description/) | [C](./solutions/StrStr.c) | Easy |
 |34| [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [C](./solutions/SearchRange.c) | Medium |
