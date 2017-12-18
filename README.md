@@ -16,6 +16,7 @@ LeetCode Problems
 |33| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [C](./solutions/SearchInRotatedSortedArray.c) | ![Medium][Medium] |
 |34| [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [C](./solutions/SearchRange.c) | ![Medium][Medium] |
 |35| [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [C](./solutions/SearchInsert.c) | ![Easy][Easy] |
+|66| [Plus One](https://leetcode.com/problems/plus-one/description/) | [C](./solutions/PlusOne.c) | ![Easy][Easy] |
 
 
 [Easy]: ./asset/easy.png
