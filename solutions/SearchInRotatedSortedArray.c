@@ -19,7 +19,7 @@ search(int* nums, int numsSize, int target)
             tmp = nums[mid];
         else if (target < nums[0])
             tmp = LONG_MIN;
-        else 
+        else
             tmp = LONG_MAX;
 
         if (target > tmp)
