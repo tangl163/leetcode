@@ -6,6 +6,7 @@ LeetCode Problems
 |2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [C](./solutions/AddTwoNumbers.c) | ![Medium][Medium] |
 |7| [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [C](./solutions/ReverseInteger.c) | ![Easy][Easy] |
 |8| [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [C](./solutions/StringToInteger.c) | ![Medium][Medium] |
+|9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [C](./solutions/PalindromeNumber.c) | ![Easy][Easy] |
 |19| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [C](./solutions/RemoveNthFromEnd.c) | ![Medium][Medium] |
 |21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [C](./solutions/MergeTwoLists.c) | ![Easy][Easy] |
 |23| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [C](./solutions/MergeKLists.c) | ![Hard][Hard] |
