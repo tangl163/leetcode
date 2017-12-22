@@ -5,6 +5,7 @@ LeetCode Problems
 |---|-------|:--------:|:----------:|
 |1| [Two Sum](https://leetcode.com/problems/two-sum/description/) | [C](./solutions/TwoSum.c) | ![Easy][Easy] |
 |2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [C](./solutions/AddTwoNumbers.c) | ![Medium][Medium] |
+|4| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [C](./solutions/MedianOfTwoSortedArrays.c) | ![Hard][Hard] |
 |7| [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [C](./solutions/ReverseInteger.c) | ![Easy][Easy] |
 |8| [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [C](./solutions/StringToInteger.c) | ![Medium][Medium] |
 |9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [C](./solutions/PalindromeNumber.c) | ![Easy][Easy] |
