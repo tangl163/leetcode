@@ -9,7 +9,7 @@ findMin(int *nums, int len)
     while (low < high) {
         mid = (low + high) / 2;
 
-        if (nums[mid] >= nums[low])
+        if (nums[mid] >= nums[high])
             low = mid + 1;
         else
             high = mid;
