@@ -22,6 +22,7 @@ LeetCode Problems
 |66| [Plus One](https://leetcode.com/problems/plus-one/description/) | [C](./solutions/PlusOne.c) | ![Easy][Easy] |
 |82| [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [C](./solutions/RemoveDuplicatesFromSortedListII.c) | ![Medium][Medium] |
 |83| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [C](./solutions/RemoveDuplicatesFromSortedList.c) | ![Easy][Easy] |
+|153| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [C](./solutions/FindMinimumInRotatedSortedArray.c) | ![Medium][Medium] |
 |167| [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [C](./solutions/TwoSumII.c) | ![Easy][Easy] |
 |217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [C](./solutions/ContainsDuplicate.c) | ![Easy][Easy] |
 
