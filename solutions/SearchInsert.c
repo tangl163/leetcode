@@ -1,13 +1,25 @@
 int
 searchInsert(int *nums, int numsSize, int target)
 {
-    int i;
+    int flag, low, mid, high;
 
-    for (i = 0; i < numsSize; i++) {
-        if (nums[i] >= target)
-            break;
+    low = flag = 0;
+    high = numsSize - 1;
+
+    while (low <= high) {
+        mid = low + ((high - low) >> 1);
+
+        if (target > nums[mid]) {
+            flag = 1;
+            low = mid + 1;
+        } else if (target < nums[mid]) {
+            flag = 0;
+            high = mid - 1;
+        } else {
+            return mid;
+        }
     }
 
-    return i;
+    return mid + flag;
 }
 
