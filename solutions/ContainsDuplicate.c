@@ -19,7 +19,7 @@ containsDuplicate(int *nums, int len)
 
         while (p) {
             if (p->val == nums[i])
-                return 1;
+                goto success;
             else
                 p = p->next;
         }
