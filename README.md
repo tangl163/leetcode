@@ -30,6 +30,7 @@ LeetCode Problems
 |206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [C](./solutions/ReverseLinkedList.c) | ![Easy][Easy] |
 |217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [C](./solutions/ContainsDuplicate.c) | ![Easy][Easy] |
 |344| [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [C](./solutions/ReverseString.c) | ![Easy][Easy] |
+|345| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [C](./solutions/ReverseVowelsOfAString.c) | ![Easy][Easy] |
 
 
 [Easy]: ./asset/easy.png
