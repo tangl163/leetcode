@@ -27,6 +27,7 @@ LeetCode Problems
 |153| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [C](./solutions/FindMinimumInRotatedSortedArray.c) | ![Medium][Medium] |
 |154| [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) | [C](./solutions/FindMinimumInRotatedSortedArrayII.c) | ![Hard][Hard] |
 |167| [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [C](./solutions/TwoSumII.c) | ![Easy][Easy] |
+|206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [C](./solutions/ReverseLinkedList.c) | ![Easy][Easy] |
 |217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [C](./solutions/ContainsDuplicate.c) | ![Easy][Easy] |
 
 
