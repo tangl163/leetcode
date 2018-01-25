@@ -29,6 +29,7 @@ LeetCode Problems
 |167| [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [C](./solutions/TwoSumII.c) | ![Easy][Easy] |
 |206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [C](./solutions/ReverseLinkedList.c) | ![Easy][Easy] |
 |217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [C](./solutions/ContainsDuplicate.c) | ![Easy][Easy] |
+|344| [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [C](./solutions/ReverseString.c) | ![Easy][Easy] |
 
 
 [Easy]: ./asset/easy.png
