@@ -24,6 +24,8 @@ LeetCode Problems
 |83| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [C](./solutions/RemoveDuplicatesFromSortedList.c) | ![Easy][Easy] |
 |100| [Same Tree](https://leetcode.com/problems/same-tree/description/) | [C](./solutions/SameTree.c) | ![Easy][Easy] |
 |112| [Path Sum](https://leetcode.com/problems/path-sum/description/) | [C](./solutions/PathSum.c) | ![Easy][Easy] |
+|141| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [C](./solutions/LinkedListCycle.c) | ![Easy][Easy] |
+|142| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [C](./solutions/LinkedListCycleII.c) | ![Medium][Medium] |
 |153| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [C](./solutions/FindMinimumInRotatedSortedArray.c) | ![Medium][Medium] |
 |154| [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) | [C](./solutions/FindMinimumInRotatedSortedArrayII.c) | ![Hard][Hard] |
 |167| [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [C](./solutions/TwoSumII.c) | ![Easy][Easy] |
