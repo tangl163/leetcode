@@ -7,6 +7,7 @@ LeetCode Problems
 |2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [C](./solutions/AddTwoNumbers.c) | ![Medium][Medium] |
 |3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [C](./solutions/LongestSubstringWithoutRepeatingCharacters.c) | ![Medium][Median] |
 |4| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [C](./solutions/MedianOfTwoSortedArrays.c) | ![Hard][Hard] |
+|5| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [C](./solutions/longestPalindromicSubstring.c) | ![Medium][Medium] |
 |7| [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [C](./solutions/ReverseInteger.c) | ![Easy][Easy] |
 |8| [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [C](./solutions/StringToInteger.c) | ![Medium][Medium] |
 |9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [C](./solutions/PalindromeNumber.c) | ![Easy][Easy] |
