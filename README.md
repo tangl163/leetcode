@@ -22,6 +22,7 @@ LeetCode Problems
 |33| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [C](./solutions/SearchInRotatedSortedArray.c) | ![Medium][Medium] |
 |34| [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [C](./solutions/SearchRange.c) | ![Medium][Medium] |
 |35| [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [C](./solutions/SearchInsert.c) | ![Easy][Easy] |
+|42| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [C](./solutions/TrappingRainWater.c) | ![Hard][Hard] |
 |66| [Plus One](https://leetcode.com/problems/plus-one/description/) | [C](./solutions/PlusOne.c) | ![Easy][Easy] |
 |82| [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [C](./solutions/RemoveDuplicatesFromSortedListII.c) | ![Medium][Medium] |
 |83| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [C](./solutions/RemoveDuplicatesFromSortedList.c) | ![Easy][Easy] |
@@ -35,6 +36,7 @@ LeetCode Problems
 |167| [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [C](./solutions/TwoSumII.c) | ![Easy][Easy] |
 |206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [C](./solutions/ReverseLinkedList.c) | ![Easy][Easy] |
 |217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [C](./solutions/ContainsDuplicate.c) | ![Easy][Easy] |
+|238| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [C](./solutions/ProductOfArrayExceptSelf.c) | ![Medium][Medium] |
 |344| [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [C](./solutions/ReverseString.c) | ![Easy][Easy] |
 |345| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [C](./solutions/ReverseVowelsOfAString.c) | ![Easy][Easy] |
 
