@@ -46,6 +46,7 @@ LeetCode Problems
 |238| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [C](./solutions/c/ProductOfArrayExceptSelf.c) | ![Medium][Medium] |
 |344| [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [C](./solutions/c/ReverseString.c) | ![Easy][Easy] |
 |345| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [C](./solutions/c/ReverseVowelsOfAString.c) | ![Easy][Easy] |
+|415| [Add Strings](https://leetcode.com/problems/add-strings/) | [C](./solutions/c/AddStrings.c) | ![Easy][Easy] |
 |989| [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [C](.solutions/c/AddToArrayFormOfInteger.c) | ![Easy][Easy] |
 
 
