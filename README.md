@@ -27,6 +27,7 @@ LeetCode Problems
 |34| [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [C](./solutions/c/SearchRange.c) | ![Medium][Medium] |
 |35| [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [C](./solutions/c/SearchInsert.c) | ![Easy][Easy] |
 |42| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [C](./solutions/c/TrappingRainWater.c) | ![Hard][Hard] |
+|45| [Add Binary](https://leetcode.com/problems/add-binary/) | [C](./solutions/c/AddBinary.c) | ![Easy][Easy] |
 |66| [Plus One](https://leetcode.com/problems/plus-one/description/) | [C](./solutions/c/PlusOne.c) | ![Easy][Easy] |
 |82| [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [C](./solutions/c/RemoveDuplicatesFromSortedListII.c) | ![Medium][Medium] |
 |83| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [C](./solutions/c/RemoveDuplicatesFromSortedList.c) | ![Easy][Easy] |
