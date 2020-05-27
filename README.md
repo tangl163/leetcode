@@ -12,6 +12,7 @@ LeetCode Problems
 |7| [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [C](./solutions/c/ReverseInteger.c) | ![Easy][Easy] |
 |8| [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [C](./solutions/c/StringToInteger.c) | ![Medium][Medium] |
 |9| [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [C](./solutions/c/PalindromeNumber.c) | ![Easy][Easy] |
+|10| [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [C](./solutions/c/RegularExpMatching.c) | ![Hard][Hard] |
 |11| [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [C](./solutions/c/ContainerWithMostWater.c) | ![Medium][Medium] |
 |12| [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | [C](./solutions/c/IntegerToRoman.c) | ![Medium][Medium] |
 |13| [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [C](./solutions/c/RomanToInteger.c) | ![Easy][Easy] |
