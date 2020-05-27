@@ -1,35 +1,38 @@
+static int findIndex(char *, int, int, char);
+
 int
 lengthOfLongestSubstring(char *s)
 {
-    int i, j, k;
-    int n, repeat, len, maxlen;
+    int i, j, len, max, idx;
 
-    n = maxlen = 0;
+    max = 0;
     len = strlen(s);
 
-    for (i = 0; i < len; i++) {
-        n = 1;
-        repeat = 0;
-
-        for (j = i+1; j < len && !repeat; j++) {
-            for (k = i; k < j; k++) {
-                if (s[k] == s[j]) {
-                    repeat = 1;
-                    break;
-                }
-            }
-
-            if (!repeat)
-                n++;
+    for (i = 0, j = 0; j < len; j++) {
+        idx = findIndex(s, i, j, s[j]);
+        if (idx != -1 && idx > i) {
+            i = idx;
         }
 
-        if (n > maxlen)
-            maxlen = n;
-
-        if (len - i < maxlen)
-            break;
+        if (j - i + 1 > max) {
+            max = j - i + 1;
+        }
     }
 
-    return maxlen;
+    return max;
+}
+
+static int
+findIndex(char *s, int start, int end, char c)
+{
+    int i;
+
+    for (i = start; i < end; i++) {
+        if (s[i] == c) {
+            return i + 1;
+        }
+    }
+
+    return -1;
 }
 
