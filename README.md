@@ -29,6 +29,7 @@ LeetCode Problems
 |35| [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [C](./solutions/c/SearchInsert.c) | ![Easy][Easy] |
 |40| [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | [GO](./solutions/go/0040.go) | ![Medium][Medium] |
 |42| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [C](./solutions/c/TrappingRainWater.c) | ![Hard][Hard] |
+|44| [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [C](./solutions/c/WildcardMatching.c), [GO](./solutions/go/WildcardMatching.go) | ![Hard][Hard] |
 |45| [Add Binary](https://leetcode.com/problems/add-binary) | [C](./solutions/c/AddBinary.c) | ![Easy][Easy] |
 |55| [Jump Game](https://leetcode.com/problems/jump-game) | [C](./solutions/c/JumpGame.c), [GO](./solutions/go/JumpGame.go) | ![Medium][Medium] |
 |66| [Plus One](https://leetcode.com/problems/plus-one) | [C](./solutions/c/PlusOne.c) | ![Easy][Easy] |
