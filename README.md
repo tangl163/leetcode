@@ -49,6 +49,7 @@ LeetCode Problems
 |217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [C](./solutions/c/ContainsDuplicate.c) | ![Easy][Easy] |
 |237| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [GO](./solutions/go/0237.go) | ![Easy][Easy] |
 |238| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [C](./solutions/c/ProductOfArrayExceptSelf.c) | ![Medium][Medium] |
+|300| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | [C](./solutions/c/LongestIncreasingSubsequence.c), [GO](./solutions/go/LongestIncreasingSubsequence.go) | ![Medium][Medium] |
 |344| [Reverse String](https://leetcode.com/problems/reverse-string) | [C](./solutions/c/ReverseString.c) | ![Easy][Easy] |
 |345| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [C](./solutions/c/ReverseVowelsOfAString.c) | ![Easy][Easy] |
 |415| [Add Strings](https://leetcode.com/problems/add-strings) | [C](./solutions/c/AddStrings.c) | ![Easy][Easy] |
