@@ -17,6 +17,7 @@ LeetCode Problems
 |12| [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | [C](./solutions/c/IntegerToRoman.c) | ![Medium][Medium] |
 |13| [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [C](./solutions/c/RomanToInteger.c) | ![Easy][Easy] |
 |14| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [C](./solutions/c/LongestCommonPrefix.c) | ![Easy][Easy] |
+|15| [3Sum](https://leetcode.com/problems/3sum) | [GO](./solutions/go/3Sum.go) | ![Medium][Medium] |
 |19| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [C](./solutions/c/RemoveNthFromEnd.c), [GO](./solutions/go/0019.go) | ![Medium][Medium] |
 |21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [C](./solutions/c/MergeTwoLists.c), [GO](./solutions/go/0021.go) | ![Easy][Easy] |
 |23| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [C](./solutions/c/MergeKLists.c) | ![Hard][Hard] |
