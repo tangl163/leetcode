@@ -7,7 +7,7 @@ LeetCode Problems
 |2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [C](./solutions/c/AddTwoNumbers.c), [GO](./solutions/go/0002.go) | ![Medium][Medium] |
 |3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [C](./solutions/c/LongestSubstringWithoutRepeatingCharacters.c), [GO](./solutions/go/0003.go) | ![Medium][Medium] |
 |4| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [C](./solutions/c/MedianOfTwoSortedArrays.c) | ![Hard][Hard] |
-|5| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [C](./solutions/c/longestPalindromicSubstring.c) | ![Medium][Medium] |
+|5| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [C](./solutions/c/LongestPalindromicSubstring.c), [GO](./solutions/go/LongestPalindromicSubstring.go) | ![Medium][Medium] |
 |6| [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [C](./solutions/c/ZigZagConversion.c) | ![Medium][Medium] |
 |7| [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [C](./solutions/c/ReverseInteger.c) | ![Easy][Easy] |
 |8| [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [C](./solutions/c/StringToInteger.c) | ![Medium][Medium] |
