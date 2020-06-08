@@ -24,7 +24,7 @@ LeetCode Problems
 |24| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [C](./solutions/c/SwapPairs.c) | ![Medium][Medium] |
 |26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [C](./solutions/c/RemoveDuplicates.c) | ![Easy][Easy] |
 |27| [Remove Element](https://leetcode.com/problems/remove-element) | [C](./solutions/c/RemoveElement.c) | ![Easy][Easy] |
-|28| [Implement strStr](https://leetcode.com/problems/implement-strstr) | [C](./solutions/c/StrStr.c) | ![Easy][Easy] |
+|28| [Implement strStr](https://leetcode.com/problems/implement-strstr) | [C](./solutions/c/StrStr.c), [GO](./solutions/go/StrStr.go) | ![Easy][Easy] |
 |33| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [C](./solutions/c/SearchInRotatedSortedArray.c) | ![Medium][Medium] |
 |34| [Search for a Range](https://leetcode.com/problems/search-for-a-range) | [C](./solutions/c/SearchRange.c) | ![Medium][Medium] |
 |35| [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [C](./solutions/c/SearchInsert.c) | ![Easy][Easy] |
