@@ -1,36 +1,43 @@
+#define max(a, b) ((a) > (b) ? (a) : (b))
+#define min(a, b) ((a) < (b) ? (a) : (b))
+
 double
-findMedianSortedArrays(int *nums1, int len1, int *nums2, int len2)
+findMedianSortedArrays(int *x, int lenx, int *y, int leny)
 {
-    double ret;
-    long len;
-    int i, j, k, *p;
+    if (lenx > leny) {
+        return findMedianSortedArrays(y, leny, x, lenx);
+    }
 
-    i = j = 0;
-    len = len1 + len2;
-    p = malloc(sizeof *p * len);
+    int low, high;
+    double median;
 
-    for (k = 0; k < len; k++) {
-        if (i < len1 && j < len2) {
-            if (nums1[i] > nums2[j])
-                p[k] = nums2[j++];
-            else
-                p[k] = nums1[i++];
-        } else if (i < len1) {
-            p[k] = nums1[i++];
+    low = 0;
+    high = lenx;
+
+    while (low <= high) {
+        int pivotx = (low + high) / 2;
+        int pivoty = (lenx + leny + 1) / 2 - pivotx;
+
+        int leftx = pivotx == 0 ? INT_MIN : x[pivotx-1];
+        int rightx = pivotx == lenx ? INT_MAX : x[pivotx];
+        int lefty = pivoty == 0 ? INT_MIN : y[pivoty-1];
+        int righty = pivoty == leny ? INT_MAX : y[pivoty];
+
+        if (leftx <= righty && lefty <= rightx) {
+            if (((lenx+leny) & 1) != 0) {
+                median = (double)max(leftx, lefty);
+            } else {
+                median = (double)(max(leftx, lefty) + min(rightx, righty)) / 2;
+            }
+
+            break;
+        } else if (leftx > righty) {
+            high = pivotx - 1;
         } else {
-            p[k] = nums2[j++];
+            low = pivotx + 1;
         }
     }
 
-    if (len % 2) {
-        ret = p[len / 2];
-    } else {
-        i = len / 2;
-        ret = (p[i-1] + p[i]) / 2.0;
-    }
-
-    free(p);
-
-    return ret;
+    return median;
 }
 
