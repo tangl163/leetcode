@@ -35,6 +35,7 @@ LeetCode Problems
 |55| [Jump Game](https://leetcode.com/problems/jump-game) | [C](./solutions/c/JumpGame.c), [GO](./solutions/go/JumpGame.go) | ![Medium][Medium] |
 |66| [Plus One](https://leetcode.com/problems/plus-one) | [C](./solutions/c/PlusOne.c) | ![Easy][Easy] |
 |72| [Edit Distance](https://leetcode.com/problems/edit-distance) | [C](./solutions/c/EditDistance.c), [GO](./solutions/go/EditDistance.go) | ![Hard][Hard] |
+|76| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [GO](./solutions/go/MinimumWindowSubstring.go) | ![Hard][Hard] |
 |82| [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | [C](./solutions/c/RemoveDuplicatesFromSortedListII.c) | ![Medium][Medium] |
 |83| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [C](./solutions/c/RemoveDuplicatesFromSortedList.c) | ![Easy][Easy] |
 |86| [Partition List](https://leetcode.com/problems/partition-list) | [GO](./solutions/go/0086.go) | ![Medium][Medium] |
