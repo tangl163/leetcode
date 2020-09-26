@@ -58,6 +58,7 @@ LeetCode Problems
 |415| [Add Strings](https://leetcode.com/problems/add-strings) | [C](./solutions/c/AddStrings.c) | ![Easy][Easy] |
 |434| [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string) | [C](./solutions/c/NumberOfSegmentsInAString.c), [GO](./solutions/go/NumberOfSegmentsInAString.go) | ![Easy][Easy] |
 |516| [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) | [C](./solutions/c/LongestPalindromicSubsequence.c), [GO](./solutions/LongestPalindromicSubsequence.go) | ![Medium][Medium] |
+|679| [24 Game](https://leetcode.com/problems/24-game) | [GO](./solutions/go/24Game.go) | ![Hard][Hard] |
 |989| [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [C](.solutions/c/AddToArrayFormOfInteger.c) | ![Easy][Easy] |
 |1143| [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [C](.solutions/c/LongestCommonSubsequence.c), [GO](.solutions/go/LongestCommonSubsequence.c) | ![Medium][Medium] |
 
