@@ -60,6 +60,7 @@ LeetCode Problems
 |516| [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) | [C](./solutions/c/LongestPalindromicSubsequence.c), [GO](./solutions/LongestPalindromicSubsequence.go) | ![Medium][Medium] |
 |679| [24 Game](https://leetcode.com/problems/24-game) | [GO](./solutions/go/24Game.go) | ![Hard][Hard] |
 |989| [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [C](.solutions/c/AddToArrayFormOfInteger.c) | ![Easy][Easy] |
+|1031| [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays) | [GO](./solutions/go/MaxSumTwoNoOverlap.go) | ![Medium][Medium] |
 |1143| [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [C](.solutions/c/LongestCommonSubsequence.c), [GO](.solutions/go/LongestCommonSubsequence.c) | ![Medium][Medium] |
 
 
