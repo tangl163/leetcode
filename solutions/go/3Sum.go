@@ -1,14 +1,14 @@
 import "sort"
 
 func threeSum(nums []int) [][]int {
+	var ret [][]int
 	if len(nums) < 3 {
-		return nil
+		return ret
 	}
 
 	sort.Ints(nums)
-	ret := make([][]int, 0, len(nums))
 
-	for i := 0; i < len(nums); i++ {
+	for i := 0; i < len(nums) - 3; i++ {
 		if nums[i] > 0 {
 			break
 		}
