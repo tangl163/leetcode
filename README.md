@@ -33,6 +33,7 @@ LeetCode Problems
 |44| [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [C](./solutions/c/WildcardMatching.c), [GO](./solutions/go/WildcardMatching.go) | ![Hard][Hard] |
 |45| [Add Binary](https://leetcode.com/problems/add-binary) | [C](./solutions/c/AddBinary.c) | ![Easy][Easy] |
 |55| [Jump Game](https://leetcode.com/problems/jump-game) | [C](./solutions/c/JumpGame.c), [GO](./solutions/go/JumpGame.go) | ![Medium][Medium] |
+|61| [Rotate List](https://leetcode.com/problems/rotate-list) | [GO](./solutions/go/RotateList.go) | ![Medium][Medium] |
 |66| [Plus One](https://leetcode.com/problems/plus-one) | [C](./solutions/c/PlusOne.c) | ![Easy][Easy] |
 |72| [Edit Distance](https://leetcode.com/problems/edit-distance) | [C](./solutions/c/EditDistance.c), [GO](./solutions/go/EditDistance.go) | ![Hard][Hard] |
 |76| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [GO](./solutions/go/MinimumWindowSubstring.go) | ![Hard][Hard] |
