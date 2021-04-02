@@ -63,6 +63,7 @@ LeetCode Problems
 |345| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [C](./solutions/c/ReverseVowelsOfAString.c) | ![Easy][Easy] |
 |347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [CPP](./solutions/cpp/TopKFrequentElements.cc) | ![Medium][Medium] |
 |392| [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [C](./solutions/c/IsSubsequence.c), [GO](./solutions/go/IsSubsequence.go) | ![Easy][Easy] |
+|414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | [CPP](./solutions/cpp/ThirdMaximumNumber.cc), [GO](./solutions/go/ThirdMaximumNumber.go) | ![Easy][Easy] |
 |415| [Add Strings](https://leetcode.com/problems/add-strings) | [C](./solutions/c/AddStrings.c) | ![Easy][Easy] |
 |434| [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string) | [C](./solutions/c/NumberOfSegmentsInAString.c), [GO](./solutions/go/NumberOfSegmentsInAString.go) | ![Easy][Easy] |
 |516| [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) | [C](./solutions/c/LongestPalindromicSubsequence.c), [GO](./solutions/LongestPalindromicSubsequence.go) | ![Medium][Medium] |
