@@ -32,6 +32,7 @@ LeetCode Problems
 |42| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [C](./solutions/c/TrappingRainWater.c) | ![Hard][Hard] |
 |44| [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [C](./solutions/c/WildcardMatching.c), [GO](./solutions/go/WildcardMatching.go) | ![Hard][Hard] |
 |45| [Add Binary](https://leetcode.com/problems/add-binary) | [C](./solutions/c/AddBinary.c) | ![Easy][Easy] |
+|53| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [GO](.solutions/go/MaximumSubarray.go) | ![Easy][Easy] |
 |55| [Jump Game](https://leetcode.com/problems/jump-game) | [C](./solutions/c/JumpGame.c), [GO](./solutions/go/JumpGame.go) | ![Medium][Medium] |
 |61| [Rotate List](https://leetcode.com/problems/rotate-list) | [GO](./solutions/go/RotateList.go) | ![Medium][Medium] |
 |66| [Plus One](https://leetcode.com/problems/plus-one) | [C](./solutions/c/PlusOne.c) | ![Easy][Easy] |
