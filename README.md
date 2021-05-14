@@ -60,6 +60,7 @@ LeetCode Problems
 |224| [Basic Calculator](https://leetcode.com/problems/basic-calculator) | [CPP](./solutions/cpp/BasicCalculator.cc) | ![Hard][Hard] |
 |237| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [GO](./solutions/go/0237.go) | ![Easy][Easy] |
 |238| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [C](./solutions/c/ProductOfArrayExceptSelf.c) | ![Medium][Medium] |
+|239| [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [C](./solutions/c/SlidingWindowMaximum.c), [CPP](./solutions/cpp/SlidingWindowMaximum.cc), [GO](./solutions/go/SlidingWindowMaximum.go) | ![Hard][Hard] |
 |300| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | [C](./solutions/c/LongestIncreasingSubsequence.c), [GO](./solutions/go/LongestIncreasingSubsequence.go) | ![Medium][Medium] |
 |344| [Reverse String](https://leetcode.com/problems/reverse-string) | [C](./solutions/c/ReverseString.c) | ![Easy][Easy] |
 |345| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [C](./solutions/c/ReverseVowelsOfAString.c) | ![Easy][Easy] |
