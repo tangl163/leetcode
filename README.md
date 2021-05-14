@@ -31,11 +31,12 @@ LeetCode Problems
 |40| [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | [GO](./solutions/go/0040.go) | ![Medium][Medium] |
 |42| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [C](./solutions/c/TrappingRainWater.c) | ![Hard][Hard] |
 |44| [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [C](./solutions/c/WildcardMatching.c), [GO](./solutions/go/WildcardMatching.go) | ![Hard][Hard] |
-|45| [Add Binary](https://leetcode.com/problems/add-binary) | [C](./solutions/c/AddBinary.c) | ![Easy][Easy] |
+|45| [Jump Game II](https://leetcode.com/problems/jump-game-ii) | [C](./solutions/c/JumpGameII.c), [CPP](./solutions/cpp/JumpGameII.cc), [GO](./solutions/go/JumpGameII.go) | ![Medium][Medium] |
 |53| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [GO](.solutions/go/MaximumSubarray.go) | ![Easy][Easy] |
 |55| [Jump Game](https://leetcode.com/problems/jump-game) | [C](./solutions/c/JumpGame.c), [GO](./solutions/go/JumpGame.go) | ![Medium][Medium] |
 |61| [Rotate List](https://leetcode.com/problems/rotate-list) | [GO](./solutions/go/RotateList.go) | ![Medium][Medium] |
 |66| [Plus One](https://leetcode.com/problems/plus-one) | [C](./solutions/c/PlusOne.c) | ![Easy][Easy] |
+|67| [Add Binary](https://leetcode.com/problems/add-binary) | [C](./solutions/c/AddBinary.c) | ![Easy][Easy] |
 |72| [Edit Distance](https://leetcode.com/problems/edit-distance) | [C](./solutions/c/EditDistance.c), [GO](./solutions/go/EditDistance.go) | ![Hard][Hard] |
 |76| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [GO](./solutions/go/MinimumWindowSubstring.go) | ![Hard][Hard] |
 |82| [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | [C](./solutions/c/RemoveDuplicatesFromSortedListII.c) | ![Medium][Medium] |
