@@ -62,6 +62,7 @@ LeetCode Problems
 |238| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [C](./solutions/c/ProductOfArrayExceptSelf.c) | ![Medium][Medium] |
 |239| [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [C](./solutions/c/SlidingWindowMaximum.c), [CPP](./solutions/cpp/SlidingWindowMaximum.cc), [GO](./solutions/go/SlidingWindowMaximum.go) | ![Hard][Hard] |
 |300| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | [C](./solutions/c/LongestIncreasingSubsequence.c), [GO](./solutions/go/LongestIncreasingSubsequence.go) | ![Medium][Medium] |
+|316| [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [C](./solutions/c/RemoveDuplicateLetters.c), [CPP](./solutions/cpp/RemoveDuplicateLetters), [GO](./solutions/go/RemoveDuplicates.go) | ![Medium][Medium] |
 |344| [Reverse String](https://leetcode.com/problems/reverse-string) | [C](./solutions/c/ReverseString.c) | ![Easy][Easy] |
 |345| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [C](./solutions/c/ReverseVowelsOfAString.c) | ![Easy][Easy] |
 |347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [CPP](./solutions/cpp/TopKFrequentElements.cc), [GO](./solutions/go/TopKFrequentElements.go) | ![Medium][Medium] |
