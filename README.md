@@ -5,7 +5,7 @@ LeetCode Problems
 | # | Title | Solution | Difficulty |
 |---|-------|:--------:|:----------:|
 |1| [Two Sum](https://leetcode.com/problems/two-sum) | [C](./solutions/c/TwoSum.c), [GO](./solutions/go/0001.go) | ![Easy][Easy] |
-|2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [C](./solutions/c/AddTwoNumbers.c), [GO](./solutions/go/0002.go) | ![Medium][Medium] |
+|2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [C](./solutions/c/2.c), [CPP](./solutions/cpp/2.cc), [GO](./solutions/go/2.go), [Rust](./solutions/rust/2.rs) | ![Medium][Medium] |
 |3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [C](./solutions/c/LongestSubstringWithoutRepeatingCharacters.c), [GO](./solutions/go/0003.go) | ![Medium][Medium] |
 |4| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [C](./solutions/c/MedianOfTwoSortedArrays.c), [GO](./solutions/go/MedianOfTwoSortedArrays.go) | ![Hard][Hard] |
 |5| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [C](./solutions/c/LongestPalindromicSubstring.c), [GO](./solutions/go/LongestPalindromicSubstring.go) | ![Medium][Medium] |
