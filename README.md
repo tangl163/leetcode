@@ -1,4 +1,5 @@
 # leetcode
+
 LeetCode Problems
 
 | # | Title | Solution | Difficulty |
@@ -19,7 +20,7 @@ LeetCode Problems
 |14| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [C](./solutions/c/LongestCommonPrefix.c) | ![Easy][Easy] |
 |15| [3Sum](https://leetcode.com/problems/3sum) | [GO](./solutions/go/3Sum.go) | ![Medium][Medium] |
 |19| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [C](./solutions/c/RemoveNthFromEnd.c), [GO](./solutions/go/0019.go) | ![Medium][Medium] |
-|21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [C](./solutions/c/MergeTwoLists.c), [GO](./solutions/go/0021.go) | ![Easy][Easy] |
+|21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [C](./solutions/c/MergeTwoLists.c), [GO](./solutions/go/21.go), [Rust](./solutions/rust/21.rs) | ![Easy][Easy] |
 |23| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [C](./solutions/c/MergeKLists.c) | ![Hard][Hard] |
 |24| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [C](./solutions/c/SwapPairs.c) | ![Medium][Medium] |
 |26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [C](./solutions/c/RemoveDuplicates.c) | ![Easy][Easy] |
@@ -76,7 +77,6 @@ LeetCode Problems
 |989| [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [C](.solutions/c/AddToArrayFormOfInteger.c) | ![Easy][Easy] |
 |1031| [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays) | [GO](./solutions/go/MaxSumTwoNoOverlap.go) | ![Medium][Medium] |
 |1143| [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [C](.solutions/c/LongestCommonSubsequence.c), [GO](.solutions/go/LongestCommonSubsequence.c) | ![Medium][Medium] |
-
 
 [Easy]: ./asset/easy.png
 [Medium]: ./asset/medium.png
