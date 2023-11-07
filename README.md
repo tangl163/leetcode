@@ -50,6 +50,7 @@ LeetCode Problems
 |142| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [C](./solutions/c/LinkedListCycleII.c), [GO](./solutions/go/0142.go) | ![Medium][Medium] |
 |146| [LRU Cache](https://leetcode.com/problems/lru-cache) | [CPP](./solutions/cpp/LRUCache.cc) | ![Medium][Medium] |
 |147| [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) | [C](./solutions/c/InsertionSortList.c) | ![Medium][Medium] |
+|148| [Sort List](https://leetcode.com/problems/sort-list) | [C](./solutions/c/148.c), [Go](./solutions/go/148.go), [Rust](./solutions/rust/148.rs) | ![Medium][Medium] |
 |150| [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | [CPP](./solutions/cpp/EvaluateReversePolishNotation.cc) | ![Medium][Medium] |
 |153| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [C](./solutions/c/FindMinimumInRotatedSortedArray.c) | ![Medium][Medium] |
 |154| [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | [C](./solutions/c/FindMinimumInRotatedSortedArrayII.c) | ![Hard][Hard] |
