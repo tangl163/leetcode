@@ -3,7 +3,7 @@
 LeetCode Problems
 
 | # | Title | Solution | Difficulty |
-|---|-------|:--------:|:----------:|
+|:-:|-------|:--------:|:----------:|
 |1| [Two Sum](https://leetcode.com/problems/two-sum) | [C](./solutions/c/TwoSum.c), [GO](./solutions/go/0001.go) | ![Easy][Easy] |
 |2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [C](./solutions/c/2.c), [CPP](./solutions/cpp/2.cc), [GO](./solutions/go/2.go), [Rust](./solutions/rust/2.rs) | ![Medium][Medium] |
 |3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [C](./solutions/c/LongestSubstringWithoutRepeatingCharacters.c), [GO](./solutions/go/0003.go) | ![Medium][Medium] |
@@ -55,6 +55,7 @@ LeetCode Problems
 |153| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [C](./solutions/c/FindMinimumInRotatedSortedArray.c) | ![Medium][Medium] |
 |154| [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | [C](./solutions/c/FindMinimumInRotatedSortedArrayII.c) | ![Hard][Hard] |
 |167| [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [C](./solutions/c/TwoSumII.c) | ![Easy][Easy] |
+|205| [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [Go](./solutions/go/205.go), [Rust](./solutions/rust/205.rs) | ![Easy][Easy] |
 |206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [C](./solutions/c/ReverseLinkedList.c) | ![Easy][Easy] |
 |209| [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [C](./solutions/c/MinimumSizeSubarraySum.c), [CPP](./solutions/cpp/MinimumSizeSubarraySum.cc), [GO](./solutions/go/MinimumSizeSubarraySum.go) | ![Medium][Medium] |
 |215| [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [CPP](./solutions/cpp/KthLargestElementInAnArray.cc), [GO](./solutions/go/KthLargestElementInAnArray.go) | ![Medium][Medium] |
