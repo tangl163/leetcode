@@ -18,4 +18,3 @@ isSubsequence(char *s, char *t)
 
     return j == slen;
 }
-

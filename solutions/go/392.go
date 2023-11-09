@@ -13,4 +13,3 @@ func isSubsequence(s string, t string) bool {
 
 	return idx == len(s)
 }
-
