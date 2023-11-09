@@ -46,6 +46,7 @@ LeetCode Problems
 |92| [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | [GO](./solutions/go/ReverseLinkedListII.go) | ![Medium][Medium] |
 |100| [Same Tree](https://leetcode.com/problems/same-tree) | [C](./solutions/c/SameTree.c) | ![Easy][Easy] |
 |112| [Path Sum](https://leetcode.com/problems/path-sum) | [C](./solutions/c/PathSum.c) | ![Easy][Easy] |
+|125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [C](./solutions/c/125.c), [GO](./solutions/go/125.go), [Rust](./solutions/rust/125.rs) | ![Easy][Easy] |
 |141| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [C](./solutions/c/LinkedListCycle.c), [GO](./solutions/go/0141.go) | ![Easy][Easy] |
 |142| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [C](./solutions/c/LinkedListCycleII.c), [GO](./solutions/go/0142.go) | ![Medium][Medium] |
 |146| [LRU Cache](https://leetcode.com/problems/lru-cache) | [CPP](./solutions/cpp/LRUCache.cc) | ![Medium][Medium] |
